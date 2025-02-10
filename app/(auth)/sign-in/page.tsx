@@ -12,9 +12,7 @@ const SignIn = () => {
         email: "",
         password: "",
       }}
-      onSubmit={() => {
-        console.log("sign");
-      }}
+      onSubmit={() => {   }}
     />
   );
 };
